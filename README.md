@@ -1,20 +1,15 @@
-````markdown
 # 🌌 Krnl_12301ct — Bootstrapped Beauty - JavascriptMastery1st (JM_001)
+
 
 > 🚀 A sleek Astro + Vite + TypeScript + Tailwind starter crafted for speed, beauty, and interstellar dev vibes.
 
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.png) <!-- Optional aesthetic -->
-
----
 
 ## 🧠 Philosophy
-
+```
 This project ain't just front-end—it’s **Frontend Quantum Alchemy**.  
 Minimal boilerplate, maximum control.  
 Built for devs who don't wanna suffer in silence 😭.
-
----
-
+```
 ## 📁 Folder Architecture
 
 ```txt
@@ -33,12 +28,11 @@ Built for devs who don't wanna suffer in silence 😭.
  ┣ 📄 tailwind.config.js # Tailwind custom theme setup
  ┣ 📄 tsconfig.json   # TypeScript settings
  ┗ 📄 README.md       # This file, duh
-````
+```
 
----
 
 ## ⚙️ Tech Stack
-
+```
 | Tool           | Description                     |
 | -------------- | ------------------------------- |
 | 🧞 Vite        | Lightning-fast frontend tooling |
@@ -47,8 +41,8 @@ Built for devs who don't wanna suffer in silence 😭.
 | 🧠 TypeScript  | Type-safe development           |
 | 🐾 ESlint      | Code linting (yes it's strict)  |
 | 🌲 Prettier    | Code formatting, auto-purified  |
+```
 
----
 
 ## 🚀 Getting Started
 
