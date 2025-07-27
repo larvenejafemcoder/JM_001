@@ -1,8 +1,6 @@
 # 🌌 Krnl_12301ct — Bootstrapped Beauty - JavascriptMastery1st (JM_001)
 
-
 > 🚀 A sleek Astro + Vite + TypeScript + Tailwind starter crafted for speed, beauty, and interstellar dev vibes.
-
 
 ## 🧠 Philosophy
 ```
@@ -52,6 +50,7 @@ or
 git pull ....
 
 ```
+then
 ```bash
 
 # 1. Install dependencies
@@ -139,15 +138,6 @@ npm run format
 * Zero tracking bloat
 * Pookie-approved 🐈
 
----
-
-## 🧠 Inspired By
-
-* 🧑‍🚀 [Astro.build](https://astro.build)
-* 🧵 [Tailwind Labs](https://tailwindcss.com/)
-* 💻 Your inner cracked dev self
-
----
 
 ## 📜 License
 
