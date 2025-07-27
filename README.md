@@ -45,8 +45,15 @@ Built for devs who don't wanna suffer in silence 😭.
 
 
 ## 🚀 Getting Started
-
 ```bash
+
+git clone ....
+or
+git pull ....
+
+```
+```bash
+
 # 1. Install dependencies
 npm install
 
@@ -58,9 +65,8 @@ npm run build
 
 # 4. Preview your site
 npm run preview
-```
 
----
+```
 
 ## 🧩 Aliases (from `vite.config.ts`)
 
@@ -152,6 +158,3 @@ MIT — use freely, break stuff wisely.
 > 🪐 Made with caffeine and KernelGhost’s divine madness 🫡
 > *"multi-threaded uncertainty with execution"* - Kangism Doctrine
 
-```
-
-```
