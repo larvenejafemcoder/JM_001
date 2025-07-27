@@ -42,7 +42,7 @@ Built for devs who don't wanna suffer in silence 😭.
 | Tool           | Description                     |
 | -------------- | ------------------------------- |
 | 🧞 Vite        | Lightning-fast frontend tooling |
-| 🌌 Astro       | Modern static site generator    |
+| 🌌 React       | Modern static site frontend    |
 | 🌬 TailwindCSS | Utility-first CSS with themeing |
 | 🧠 TypeScript  | Type-safe development           |
 | 🐾 ESlint      | Code linting (yes it's strict)  |
