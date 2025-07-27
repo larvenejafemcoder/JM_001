@@ -30,7 +30,7 @@ Built for devs who don't wanna suffer in silence 😭.
 
 
 ## ⚙️ Tech Stack
-```
+
 | Tool           | Description                     |
 | -------------- | ------------------------------- |
 | 🧞 Vite        | Lightning-fast frontend tooling |
@@ -39,7 +39,7 @@ Built for devs who don't wanna suffer in silence 😭.
 | 🧠 TypeScript  | Type-safe development           |
 | 🐾 ESlint      | Code linting (yes it's strict)  |
 | 🌲 Prettier    | Code formatting, auto-purified  |
-```
+
 
 
 ## 🚀 Getting Started
