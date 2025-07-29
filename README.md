@@ -1,4 +1,5 @@
-# 🌌 Krnl_12301ct — Bootstrapped Beauty - JavascriptMastery1st (JM_001)
+# 🌌 Krnl_12301ct — Bootstrapped Beauty - JavascriptMastery1st (JM_001) 
+### Now Stable (29/07/2025)
 
 > 🚀 A sleek Astro + Vite + TypeScript + Tailwind starter crafted for speed, beauty, and interstellar dev vibes.
 
